@@ -1,0 +1,22 @@
+body {
+    background: #000;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+#a {
+    color: #fff;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#batman {
+    border: 5px solid grey;
+    width: 40%;
+}
